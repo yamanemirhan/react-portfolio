@@ -1,0 +1,26 @@
+[
+  {
+    "title": "RESTAURANTS",
+    "imageSrc": "projects/restaurants.jpeg",
+    "description": "You can view the most beloved restaurants and dishes, and search for dishes in any category you desire. You can examine user reviews about the dishes. You can track the orders you have placed and provide feedback after your order has been delivered. Additionally, you can become a seller and showcase your products. You can add, update, and delete a product. You can manage the status of incoming orders.",
+    "skills": ["MongoDB", "Express", "React", "Node", "Redux", "Stripe"],
+    "demo": "https://mern-restaurant.netlify.app",
+    "source": "https://github.com/yamanemirhan/mern-restaurant-frontend"
+  },
+  {
+    "title": "SOCIAL MEDIA",
+    "imageSrc": "projects/socialmedia.jpeg",
+    "description": "You can share photos and content with your followers. You can search for and send follow requests to other users. You can customize your profile as you wish and switch to a private account. You can like and comment on posts. You can manage incoming follower requests or the requests you've sent. You can also see the posts you've liked.",
+    "skills": ["MongoDB", "Express", "React", "Node", "Redux", "TailwindCSS"],
+    "demo": "https://mern-socialmedia-app.netlify.app",
+    "source": "https://github.com/yamanemirhan/mern-social_media-frontend"
+  },
+  {
+    "title": "E-COMMERCE",
+    "imageSrc": "projects/ecommerce.jpeg",
+    "description": "You can search for and add any products you like to your cart. You can manage or remove items in your cart. You can update your user information and add new addresses. You can view your orders and write product reviews. You can also log in as a seller and manage your products.",
+    "skills": ["MongoDB", "Express", "React", "Node", "Redux", "TailwindCSS"],
+    "demo": "https://mern-e-commerce-app.netlify.app",
+    "source": "https://github.com/yamanemirhan/mern-ecommerce-frontend"
+  }
+]
