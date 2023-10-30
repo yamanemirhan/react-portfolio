@@ -22,5 +22,13 @@
     "skills": ["MongoDB", "Express", "React", "Node", "Redux", "TailwindCSS"],
     "demo": "https://mern-e-commerce-app.netlify.app",
     "source": "https://github.com/yamanemirhan/mern-ecommerce-frontend"
+  },
+  {
+    "title": "SOCKET.IO CHAT APP",
+    "imageSrc": "projects/socket.io-chat.png",
+    "description": "A basic CHAT APP I made using SOCKET.IO.",
+    "skills": ["SOCKET.IO", "Express", "React", "Node", "Redux", "TailwindCSS"],
+    "demo": "https://socketio-chatting.netlify.app",
+    "source": "https://github.com/yamanemirhan/socketio-chat_app-server"
   }
 ]
